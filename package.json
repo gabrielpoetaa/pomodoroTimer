@@ -2,6 +2,7 @@
   "name": "pomodoro-project",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://gabrielpoetaa.github.io/pomodoroTimer/",
   "type": "module",
   "scripts": {
     "dev": "vite",
