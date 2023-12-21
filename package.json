@@ -9,7 +9,7 @@
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "deploy": "vite build && gh-pages -d dist",
-    "predeploy": "rm -rf dist"
+    "predeploy": "rmdir /s /q dist"
   },
   "dependencies": {
     "phosphor-react": "^1.4.1",
