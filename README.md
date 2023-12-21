@@ -1,12 +1,12 @@
-# Your Project Name
+# Pomodoro Timer
 
-A brief description of your project.
+Pomodoro Timer App developed using Vite, Typescript and Styled components.
 
 ## Table of Contents
 
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](installation)
+  - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
