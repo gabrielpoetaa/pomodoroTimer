@@ -25,12 +25,12 @@ Make sure you have the following installed before running the project:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/gabrielpoetaa/pomodoroTimer.git
 
 
 2. Change into project directory:
    ```bash
-   cd your-project
+   cd pomodoroTimer
 
 3. Install dependencies:
   ```bash
