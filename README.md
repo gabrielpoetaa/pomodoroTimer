@@ -53,6 +53,6 @@ Make sure you have the following installed before running the project:
 If you'd like to contribute, please fork the repository and create a pull request. Feel free to open an issue if you find any bugs or have suggestions.
 
 ### License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://en.wikipedia.org/wiki/MIT_License).
 
 
